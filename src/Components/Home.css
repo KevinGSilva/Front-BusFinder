@@ -1,0 +1,48 @@
+#imagemBus {
+    padding-top: 25px;
+    justify-content: center;
+    display: flex;
+
+    color: #5a5a5a;
+    font-size: 15px;
+    text-align: center;
+    font-family: sans-serif;
+}
+
+.sobre {
+    padding: 20px 200px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    color: #757575;
+    font-size:x-large;
+    font-weight:bolder ;
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    font-size: x-large;
+    color: #035596;
+    font-weight: bolder;
+}
+
+.btn-comecar {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.comecar-btn {
+    margin-top: 30px;
+    text-decoration: none;
+    background-color: #035596;
+    padding: 10px 20px;
+    color: azure;
+    border-radius: 7px;
+}
+
+.comecar-btn :hover {
+    color: #757575;
+}

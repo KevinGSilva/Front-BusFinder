@@ -1,0 +1,22 @@
+#logo {
+    padding: 3px;
+}
+
+.logo {
+    justify-content: center;
+    display: flex;
+}
+
+#navs {
+    border-bottom: 1px solid black;
+}
+
+#navs1  {
+    color: #000;
+}
+#navs2  {
+    color: #000;
+}
+#navs3  {
+    color: #000;
+}
